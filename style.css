@@ -7,12 +7,8 @@ h1, h3{
     color: #fff;
     text-align: center;
 }
-h6{
-    
-}
 .container .h11{
     font-family: Bowlby One Sc;
-
 }
 span{
     color: red;
@@ -21,7 +17,6 @@ body{
     background-image: url(./images/background_image.jpg);
     color: #FFFFFF;
     background-repeat: no-repeat;
-    /* background-size: cover; */
 }
 .container{
     color: #fff;
@@ -32,14 +27,12 @@ body{
     padding: 10px 40px;
 }
 .container .title{
-    /* background-color: aqua; */
     width: 1240px;
     height: 90px;
     font-size: 50px;
     padding-top: 15px;
 }
 .container .description{
-    /* background-color: orange; */
     font-size: 23px;
     font-style: italic;
 }
@@ -65,19 +58,15 @@ body{
     width: 100%;
     /* background-color: bisque; */
     padding: auto;
-    
 }
 .container .survey-form .form .box .box-under{
     float: left;
     width: 420px;
     height: 60px;
     padding: 10px;
-    /* position: relative; */
-    /* margin: 10px; */
 }
 
 .container .survey-form .form .box-feedback{
-    /* background-color: orange; */
     margin: 10px auto;
     height: 133px;
     width: 460px;
